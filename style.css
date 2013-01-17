@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+#image{
+border:4px #666 solid;
+height:480px;
+width:640px;
+}
+
+.thumb{
+float:left;
+margin-right:10px;
+margin-top:10px;
+}
+
