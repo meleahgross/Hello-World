@@ -19,7 +19,7 @@ return false;
 <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body>
-
+<?php include 'header.php'; ?>
 <div id="container">
 <div id="image"><img src="images/1.jpg" border="0"/></div>
 <a href="#" rel="images/1.jpg" class="image"><img src="images/1t.jpg" class="thumb" border="0"/></a>

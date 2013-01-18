@@ -10,6 +10,9 @@
 <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 <body> 
+
+<?php include 'header.php'; ?>
+
 <div>
     <h1>Example</h1>
 

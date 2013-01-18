@@ -7,7 +7,12 @@
 </head>
 
 <body>
-
+<div id="navigation">
+<ul>
+<li><a href="list.php">Favorite Movies</a></li>
+<li><a href="image-gallery.php">Photography</a></li>
+</ul>
+</div>
 
 
 </body>
