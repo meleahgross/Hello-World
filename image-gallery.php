@@ -42,5 +42,8 @@ var pageTracker = _gat._getTracker("UA-7025232-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
     
+    
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="js/bootstrap.min.js"></script>
   </body>
 </html>

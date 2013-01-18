@@ -29,6 +29,7 @@
 
 <script src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
 <script src="http://code.jquery.com/mobile/1.1.1/jquery.mobile-1.1.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
   
   <script src="http://code.jquery.com/ui/1.8.21/jquery-ui.min.js"></script>
   <script>
