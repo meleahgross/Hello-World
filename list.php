@@ -1,15 +1,16 @@
 <?php include 'header.php'; ?>
 
 <div>
-    <h1>Example</h1>
+    <h1>Favorite Movies</h1>
 
     <ul id="sortable">
-      <li data-role="list-divider">List</li>
-      <li>Item 1</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
-      <li>Item 4</li>
-      <li>Item 5</li>
+      <li data-role="list-divider">Forrest Gump</li>
+      <li>Pitch Perfect</li>
+      <li>Hunger Games</li>
+      <li>Harry Potter Series</li>
+      <li>Across the Universe</li>
+      <li>The Notebook</li>
+      <li>The Other Bolyn Girl</li>
     </ul>
   </div>
 
@@ -30,5 +31,4 @@
   });
   </script>
   
-</body>
-</html>
+<?php include 'footer.php'; ?>
