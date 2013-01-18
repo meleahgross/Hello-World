@@ -2,14 +2,14 @@
 /* CSS Document */
 
 #image{
-border:4px #666 solid;
+border:4px #59C09D solid;
 height:480px;
 width:640px;
 }
 
 .thumb{
 float:left;
-margin-right:10px;
+margin-right:12px;
 margin-top:10px;
 }
 
@@ -34,3 +34,16 @@ a:hover {color:#999;
 }
 
 .nav > li > a:hover {background-color:transparent;}
+
+.btn {display:inherit;
+width:200px;}
+
+.btn-primary {
+	background-color:#59c09d;
+	background-image:none;
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled]{
+	color:#999;
+	background-color:#fff;
+}

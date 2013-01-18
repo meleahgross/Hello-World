@@ -1,12 +1,13 @@
 <?php include 'header.php'; ?>
-<div id="container">
+<div class="container">
+<div style="margin-left:9%; margin-top:20%;">
 <div id="image"><img src="images/1.jpg" border="0"/></div>
 <a href="#" rel="images/1.jpg" class="image"><img src="images/1t.jpg" class="thumb" border="0"/></a>
 <a href="#" rel="images/2.jpg" class="image"><img src="images/2t.jpg" class="thumb" border="0"/></a>
 <a href="#" rel="images/3.jpg" class="image"><img src="images/3t.jpg" class="thumb" border="0"/></a>
 <a href="#" rel="images/4.jpg" class="image"><img src="images/4t.jpg" class="thumb" border="0"/></a>
 <a href="#" rel="images/5.jpg" class="image"><img src="images/5t.jpg" class="thumb" border="0"/></a>
-
+</div>
 
 <div class="clear"></div>
     </div>

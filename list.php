@@ -1,9 +1,10 @@
 <?php include 'header.php'; ?>
 
-<div id="container">
-    <h1>Favorite Movies</h1>
+<div class="container">
+    <div style=" margin-top:20%; width:604px; text-align:center; display:block;margin-left:12%;">
+    <h1 style="color:#fff;">Favorite Movies</h1>
 
-    <ul id="sortable">
+    <ul style="margin-left:31%;" id="sortable">
       <li class="btn btn-primary btn-large" data-role="list-divider">Forrest Gump</li>
       <li class="btn btn-primary btn-large">Pitch Perfect</li>
       <li class="btn btn-primary btn-large">Hunger Games</li>
@@ -12,6 +13,7 @@
       <li class="btn btn-primary btn-large">The Notebook</li>
       <li class="btn btn-primary btn-large">The Other Bolyn Girl</li>
     </ul>
+  </div>
   </div>
 
 
