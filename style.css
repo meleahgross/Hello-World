@@ -13,3 +13,24 @@ margin-right:10px;
 margin-top:10px;
 }
 
+#navbar-inner {
+	background:#fff;
+	margin-top:6%;
+}
+
+.nav li {
+	float: left;
+    margin: 1% -13% 3% 14%;
+    padding-right: 39%;
+}
+
+#body {
+background-color:#999;}
+
+a {color:#59C09D;
+}
+
+a:hover {color:#999;
+}
+
+.nav > li > a:hover {background-color:transparent;}

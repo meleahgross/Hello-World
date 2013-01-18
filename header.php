@@ -12,9 +12,14 @@
 </head>
 
 <body>
-<div id="navigation">
-<ul>
-<li><a href="list.php">Favorite Movies</a></li>
-<li><a href="image-gallery.php">Photography</a></li>
-</ul>
+<div id="navbar-inner">
+	<div class="container">
+    	<div class="nav-collapse collapse">
+        <img style="position:absolute; left:29%; top:-118px;" src="images/sample.png" />        
+		<ul class="nav">
+			<li><a href="list.php">Favorite Movies</a></li>
+			<li><a href="image-gallery.php">Photography</a></li>
+		</ul>
+        </div>
+	</div>
 </div>

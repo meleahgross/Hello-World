@@ -1,16 +1,16 @@
 <?php include 'header.php'; ?>
 
-<div>
+<div id="container">
     <h1>Favorite Movies</h1>
 
     <ul id="sortable">
-      <li data-role="list-divider">Forrest Gump</li>
-      <li>Pitch Perfect</li>
-      <li>Hunger Games</li>
-      <li>Harry Potter Series</li>
-      <li>Across the Universe</li>
-      <li>The Notebook</li>
-      <li>The Other Bolyn Girl</li>
+      <li class="btn btn-primary btn-large" data-role="list-divider">Forrest Gump</li>
+      <li class="btn btn-primary btn-large">Pitch Perfect</li>
+      <li class="btn btn-primary btn-large">Hunger Games</li>
+      <li class="btn btn-primary btn-large">Harry Potter Series</li>
+      <li class="btn btn-primary btn-large">Across the Universe</li>
+      <li class="btn btn-primary btn-large">The Notebook</li>
+      <li class="btn btn-primary btn-large">The Other Bolyn Girl</li>
     </ul>
   </div>
 
