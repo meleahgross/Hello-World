@@ -3,8 +3,23 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Meleah Gross</title>
-<link href="style.css" rel="stylesheet" type="text/css" />
 <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.0/jquery.min.js"></script>
+ <script type="text/javascript">
+ $(function() {
+$(".image").click(function() {
+var image = $(this).attr("rel");
+$('#image').hide();
+$('#image').fadeIn('slow');
+$('#image').html('<img src="' + image + '"/>');
+return false;
+	});
+});
+</script>
+
 </head>
 
 <body>
@@ -14,7 +29,3 @@
 <li><a href="image-gallery.php">Photography</a></li>
 </ul>
 </div>
-
-
-</body>
-</html>
